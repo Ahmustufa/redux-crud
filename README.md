@@ -6,4 +6,4 @@
 
 # You can view this project using the link
 
-https://redux-toolkit-crud.herokuapp.com/
+https://new-ui.de5zwtlyp38xd.amplifyapp.com/
